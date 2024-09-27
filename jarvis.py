@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # OpenAI API Key
-openai.api_key = os.getenv('sk-proj-LgyUId4fy2jNQItLV1IuT3BlbkFJ9M6wS11mIkUalJPQWuQp')
+#openai.api_key = os.getenv('sk-proj-**********JPQWuQp')
 
 # Function to convert text to speech
 def SpeakText(command):
